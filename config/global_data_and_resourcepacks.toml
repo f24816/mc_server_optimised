@@ -4,15 +4,14 @@
 [resourcepacks]
 required = [
     #"other_folder/random_pack.zip" # You can also point at specific files!
-    "global_packs/required_resources/"
+    "resourcepacks/"
 ]
 
 [datapacks]
 required = [
-    "resourcepacks/",
-    "global_packs/required_data/"
+    "datapacks/required/"
 ]
 
 optional = [
-    "global_packs/optional_data/"
+    "datapacks/optional/"
 ]

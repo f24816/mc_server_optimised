@@ -1,8 +1,0 @@
-# Value of entities sacrificed
-values:
-  # ANULLIS LIKES MEAT
-  - entity.minecraft.sheep=8
-  - entity.minecraft.cow=8
-  - entity.minecraft.rabbit=16
-  # ANULLIS DOESN'T LIKE PORK
-  - entity.minecraft.pig=-64
