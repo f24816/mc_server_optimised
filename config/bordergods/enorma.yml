@@ -1,0 +1,13 @@
+# Value of items sacrificed
+values:
+  # ENORMA LIKES SHINY
+  - item.minecraft.diamond=128
+  - item.minecraft.gold_ingot=32
+  - item.minecraft.emerald=64
+  - item.minecraft.amethyst_shard=8
+  - block.minecraft.amethyst_block=32
+  # HAHA YOU CAN'T BURN THIS ONE IN LAVA
+  - item.minecraft.netherite_ingot=256
+  # ENORMA DOESN'T LIKE PLANTS
+  - block.minecraft.lily_pad=-64
+  - block.minecraft.sugar_cane=-64

@@ -1,0 +1,129 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "Magic",
+      "output_dir": ".\\mods",
+      "game_version": "1.18.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "AntiXray",
+          "identifier": {
+            "ModrinthProject": "sml2FMaA"
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "Chunky Pregenerator",
+          "identifier": {
+            "ModrinthProject": "fALzjamp"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Universal Graves",
+          "identifier": {
+            "ModrinthProject": "yn9u3ypm"
+          }
+        },
+        {
+          "name": "Krypton",
+          "identifier": {
+            "ModrinthProject": "fQEb0iXm"
+          }
+        },
+        {
+          "name": "Ksyxis",
+          "identifier": {
+            "ModrinthProject": "2ecVyZ49"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Memory Leak Fix",
+          "identifier": {
+            "ModrinthProject": "NRjRiSSD"
+          }
+        },
+        {
+          "name": "ServerCore",
+          "identifier": {
+            "ModrinthProject": "4WWQxlQP"
+          }
+        },
+        {
+          "name": "SleepWarp",
+          "identifier": {
+            "ModrinthProject": "OPvzuqtZ"
+          }
+        },
+        {
+          "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+          "identifier": {
+            "CurseForgeProject": 582327
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Starter Kit (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 527822
+          }
+        },
+        {
+          "name": "Collective (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 526606
+          }
+        },
+        {
+          "name": "Stray Spawn (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 527818
+          }
+        },
+        {
+          "name": "Global Data- & Resourcepacks",
+          "identifier": {
+            "CurseForgeProject": 317134
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
