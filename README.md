@@ -1,4 +1,4 @@
-# Minecraft Server Performance Configuration
+# Minecraft Server for Improved Performance
 This is a quick way of setting up an optimised Minecraft Java Edition server.
 > Platforms it works on `windows`.
 
