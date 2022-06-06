@@ -1,6 +1,6 @@
 # Minecraft Server for Improved Performance
 This is a quick way of setting up an optimised Minecraft Java Edition server.
-> Platforms it works on `windows`.
+> Platforms it works on: `Windows`.
 
 > This project uses the [Fabric Mod Loader](https://fabricmc.net) and [Ferium](https://github.com/gorilla-devs/ferium) to automatically download the server files.
 ## Windows Guide
