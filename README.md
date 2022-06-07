@@ -1,6 +1,6 @@
 # Minecraft Server for Improved Performance
 This is a quick way of setting up an optimised Minecraft Java Edition server.
-> Platforms it works on: `Windows`.
+> Platforms supported: `Windows`.
 
 > This project uses the [Fabric Mod Loader](https://fabricmc.net) and [Ferium](https://github.com/gorilla-devs/ferium) to automatically download the server files.
 ## Windows Guide
@@ -14,3 +14,5 @@ This is a quick way of setting up an optimised Minecraft Java Edition server.
 
 - The first time you run the `start.bat` it will take longer because it will download all the server files.
 - Anytime you want to start the server just run `start.bat`
+## Todo
+- [ ] Make changes to mob behaiviour, missing from pack.
