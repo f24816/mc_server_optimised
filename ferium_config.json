@@ -15,9 +15,9 @@
           }
         },
         {
-          "name": "AntiXray",
+          "name": "TabTPS",
           "identifier": {
-            "ModrinthProject": "sml2FMaA"
+            "ModrinthProject": "cUhi3iB2"
           }
         },
         {
@@ -75,9 +75,9 @@
           }
         },
         {
-          "name": "ServerCore",
+          "name": "Global Data- & Resourcepacks",
           "identifier": {
-            "ModrinthProject": "4WWQxlQP"
+            "CurseForgeProject": 317134
           }
         },
         {
@@ -114,12 +114,6 @@
           "name": "Stray Spawn (Fabric)",
           "identifier": {
             "CurseForgeProject": 527818
-          }
-        },
-        {
-          "name": "Global Data- & Resourcepacks",
-          "identifier": {
-            "CurseForgeProject": 317134
           }
         }
       ]
