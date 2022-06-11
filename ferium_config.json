@@ -115,6 +115,24 @@
           "identifier": {
             "CurseForgeProject": 527818
           }
+        },
+        {
+          "name": "ServerCore",
+          "identifier": {
+            "ModrinthProject": "4WWQxlQP"
+          }
+        },
+        {
+          "name": "Very Many Players (Fabric)",
+          "identifier": {
+            "ModrinthProject": "wnEe9KBa"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
         }
       ]
     }
