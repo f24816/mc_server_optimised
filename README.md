@@ -1,7 +1,7 @@
-# Minecraft Server for Improved Performance
+# Fabric Minecraft Server for Improved Performance
 A quick way of setting up an optimised Minecraft Java Edition server. 
 ## What makes it better?
-Compared to [Paper](https://papermc.io/) It makes chunk generation a lot faster.
+Compared to [Paper](https://papermc.io/) It makes chunk generation a lot faster and it supports Fabric mods.
 
 > This project uses the [Fabric Mod Loader](https://fabricmc.net) and [Ferium](https://github.com/gorilla-devs/ferium) to automatically download the server files.
 
