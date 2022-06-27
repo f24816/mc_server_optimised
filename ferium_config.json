@@ -147,18 +147,6 @@
           }
         },
         {
-          "name": "Configurable Extra Mob Drops (Fabric)",
-          "identifier": {
-            "CurseForgeProject": 531287
-          }
-        },
-        {
-          "name": "RainBeThunder",
-          "identifier": {
-            "ModrinthProject": "tdyBZj6a"
-          }
-        },
-        {
           "name": "Maintenance Mode",
           "identifier": {
             "ModrinthProject": "QOkEkSap"
@@ -168,12 +156,6 @@
           "name": "PlayerAbilityLib",
           "identifier": {
             "CurseForgeProject": 359522
-          }
-        },
-        {
-          "name": "FabricHomes",
-          "identifier": {
-            "CurseForgeProject": 441291
           }
         }
       ]

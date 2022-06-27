@@ -1,0 +1,1 @@
+.\ferium --config-file .\ferium_config.json remove
