@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "doBackup": false,
+  "message": "This server is currently in maintenance mode! Please check back later",
+  "allowedUsers": []
+}

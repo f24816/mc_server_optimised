@@ -1,7 +1,7 @@
 {
   "_comment": "Before changing anything, see https://github.com/Patbox/UniversalGraves#configuration",
-  "graveStyle": "client_model_or_head",
-  "allowClientSideStyle": true,
+  "graveStyle": "barrel",
+  "allowClientSideStyle": false,
   "playerHeadTurnIntoSkulls": true,
   "presetHeadLockedTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjYWI1NmM4MmNiODFiZGI5OTc5YTQ2NGJjOWQzYmEzZTY3MjJiYTEyMmNmNmM1Mjg3MzAxMGEyYjU5YWVmZSJ9fX0=",
   "presetHeadUnlockedTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjYWI1NmM4MmNiODFiZGI5OTc5YTQ2NGJjOWQzYmEzZTY3MjJiYTEyMmNmNmM1Mjg3MzAxMGEyYjU5YWVmZSJ9fX0=",
@@ -29,15 +29,15 @@
     "<white>${player}"
   ],
   "customStyleUpdateRate": 40,
-  "protectionTime": 10000,
-  "breakingTime": 18000,
+  "protectionTime": 172800,
+  "breakingTime": 172800,
   "keepBlockAfterBreaking": false,
   "restoreBlockAfterPlayerBreaking": true,
   "xpStorageType": "percent_points",
   "xpPercentTypeValue": 100.0,
   "replaceAnyBlock": false,
   "maxPlacementDistance": 8,
-  "useRealTime": false,
+  "useRealTime": true,
   "useAlternativeXPEntity": false,
   "createFromPvP": true,
   "createFromVoid": true,
@@ -57,8 +57,6 @@
     "<gold><lang:'text.graves.grave_of':'<white>${player}'>",
     "<yellow>${death_cause}",
     "",
-    "<gray><lang:'text.graves.items_xp':'<white>${item_count}':'<white>${xp}'>",
-    "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'>",
     "<red><lang:'text.graves.break_time':'<white>${break_time}'>"
   ],
   "hologramText": [

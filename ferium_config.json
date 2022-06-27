@@ -15,9 +15,9 @@
           }
         },
         {
-          "name": "TabTPS",
+          "name": "Plasmo Voice",
           "identifier": {
-            "ModrinthProject": "cUhi3iB2"
+            "ModrinthProject": "1bZhdhsH"
           }
         },
         {
@@ -75,15 +75,15 @@
           }
         },
         {
-          "name": "Global Data- & Resourcepacks",
+          "name": "ServerCore",
           "identifier": {
-            "CurseForgeProject": 317134
+            "ModrinthProject": "4WWQxlQP"
           }
         },
         {
-          "name": "SleepWarp",
+          "name": "Carpet",
           "identifier": {
-            "ModrinthProject": "OPvzuqtZ"
+            "CurseForgeProject": 349239
           }
         },
         {
@@ -111,27 +111,69 @@
           }
         },
         {
-          "name": "Stray Spawn (Fabric)",
-          "identifier": {
-            "CurseForgeProject": 527818
-          }
-        },
-        {
-          "name": "ServerCore",
-          "identifier": {
-            "ModrinthProject": "4WWQxlQP"
-          }
-        },
-        {
           "name": "Very Many Players (Fabric)",
           "identifier": {
             "ModrinthProject": "wnEe9KBa"
           }
         },
         {
+          "name": "Global Data- & Resourcepacks",
+          "identifier": {
+            "CurseForgeProject": 317134
+          }
+        },
+        {
           "name": "Cloth Config API",
           "identifier": {
             "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "TabTPS",
+          "identifier": {
+            "ModrinthProject": "cUhi3iB2"
+          }
+        },
+        {
+          "name": "Dynamic View[Fabric]",
+          "identifier": {
+            "CurseForgeProject": 629392
+          }
+        },
+        {
+          "name": "Right-Click-Harvest",
+          "identifier": {
+            "ModrinthProject": "xQgFileM"
+          }
+        },
+        {
+          "name": "Configurable Extra Mob Drops (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 531287
+          }
+        },
+        {
+          "name": "RainBeThunder",
+          "identifier": {
+            "ModrinthProject": "tdyBZj6a"
+          }
+        },
+        {
+          "name": "Maintenance Mode",
+          "identifier": {
+            "ModrinthProject": "QOkEkSap"
+          }
+        },
+        {
+          "name": "PlayerAbilityLib",
+          "identifier": {
+            "CurseForgeProject": 359522
+          }
+        },
+        {
+          "name": "FabricHomes",
+          "identifier": {
+            "CurseForgeProject": 441291
           }
         }
       ]
